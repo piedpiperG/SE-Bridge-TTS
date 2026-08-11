@@ -91,7 +91,7 @@ def test_public_pages_are_cross_linked():
     expected_urls = [
         "https://insiderx-pro.github.io/SE-Bridge-TTS/",
         "https://github.com/InsiderX-Pro/SE-Bridge-TTS",
-        "https://huggingface.co/isabeth/SE-Bridge-TTS",
+        "https://huggingface.co/InsiderX-Pro/SE-Bridge-TTS",
     ]
 
     assert expected_urls[1] in html

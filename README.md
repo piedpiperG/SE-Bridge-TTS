@@ -14,7 +14,7 @@
   <a href="https://arxiv.org/abs/2605.27383">
     <img alt="arXiv paper" src="https://img.shields.io/badge/Paper-arXiv_2605.27383-b31b1b?style=for-the-badge">
   </a>
-  <a href="https://huggingface.co/isabeth/SE-Bridge-TTS">
+  <a href="https://huggingface.co/InsiderX-Pro/SE-Bridge-TTS">
     <img alt="Hugging Face weights" src="https://img.shields.io/badge/Weights-Hugging_Face-f59e0b?style=for-the-badge">
   </a>
   <a href="https://github.com/InsiderX-Pro/SE-Bridge-TTS">
@@ -122,7 +122,7 @@ The full protocol, machine-readable results, and table renderer are in
 
 The release checkpoints are hosted at:
 
-https://huggingface.co/isabeth/SE-Bridge-TTS
+https://huggingface.co/InsiderX-Pro/SE-Bridge-TTS
 
 For inference:
 
@@ -143,7 +143,7 @@ This GitHub repository is intentionally lightweight: it hosts the project page, 
 | --- | --- |
 | Project page and audio browser | https://insiderx-pro.github.io/SE-Bridge-TTS/ |
 | Paper | https://arxiv.org/abs/2605.27383 |
-| Weights and inference notes | https://huggingface.co/isabeth/SE-Bridge-TTS |
+| Weights and inference notes | https://huggingface.co/InsiderX-Pro/SE-Bridge-TTS |
 | FLEURS evaluation protocol and results | `evaluation/fleurs-lo-th-255pair/` |
 | Demo metadata | `assets/data/demo-data.json` |
 
